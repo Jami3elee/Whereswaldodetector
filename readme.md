@@ -1,6 +1,6 @@
-Age Predictor Model
+Wheres Waldo detector
 
-This model is used to predict peoples ages based on their face. It is trained on an imagenet Resnet-18 model using transfer learning. The idea is that if the model overpredicts your age, you might have some sort of skin problems.
+This model is used to detect where waldo is. This model is trained on google images. The idea is that if the model can detetc where waldo is, it can detect where any lost item is!
 
 ![A computer analyzes a face.](https://imgur.com/HeyVfsW)
 
